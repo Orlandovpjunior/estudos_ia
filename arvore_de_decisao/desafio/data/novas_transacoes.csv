@@ -1,0 +1,11 @@
+Cliente,Tipo de Transacao,Valor da Transacao,Valor Anterior a Transacao,Valor Apos a Transacao,Horario da Transacao
+cliente_teste_01,PIX,2550.75,8000.00,5449.25,2025-10-10T22:15:00.000000
+cliente_teste_02,Débito,120.50,1500.60,1380.10,2025-10-11T10:30:15.123456
+cliente_teste_03,Saque,800.00,2200.00,1400.00,2025-10-11T14:05:45.789101
+cliente_teste_04,Crédito,4500.99,10000.00,5499.01,2025-10-12T03:45:00.000000
+cliente_teste_05,PIX,98.20,560.00,461.80,2025-10-12T18:00:20.654321
+cliente_teste_06,Débito,890.00,4500.00,3610.00,2025-10-13T11:22:33.445566
+cliente_teste_07,PIX,3100.00,3200.00,100.00,2025-10-14T01:55:00.112233
+cliente_teste_08,Crédito,50.00,880.50,830.50,2025-10-14T16:10:10.987654
+cliente_teste_09,Saque,1500.00,10500.00,9000.00,2025-10-15T09:00:00.000000
+cliente_teste_10,PIX,10.25,350.75,340.50,2025-10-15T12:30:00.555555

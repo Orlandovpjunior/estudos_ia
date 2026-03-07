@@ -1,1 +1,4 @@
 .json
+.env
+data/
+text_index/

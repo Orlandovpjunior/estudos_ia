@@ -7,3 +7,6 @@ childVectorDB/
 chromadb/
 chromadb2/
 chromadb3/
+
+bert/
+*.jsonl

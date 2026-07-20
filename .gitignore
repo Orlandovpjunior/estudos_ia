@@ -10,3 +10,5 @@ chromadb3/
 *.keras
 bert/
 *.jsonl
+.vscode
+*.pt
